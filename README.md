@@ -1,2 +1,5 @@
-RSA-Factoring-Challenge
-By Harkinpelumhi
+# RSA-Factoring-Challenge
+
+./factors <file>
+
+./rsa <file>
